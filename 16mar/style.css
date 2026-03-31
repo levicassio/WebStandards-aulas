@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    border: 10px solid white;
+    box-sizing: border-box;
+    border: none;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 50px;
+}
+
+#circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+p {
+    padding: 0;    
+    color: beige;
+    font-size: 30px;
+}
+
+button {
+    background-color: black;
+    color: blueviolet;
+    padding: none;
+    border-radius: 8px;
+    margin-left: 40px;
+}
+
