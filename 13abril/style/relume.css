@@ -10,6 +10,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 30px;
 }
 
 nav {
@@ -128,5 +129,34 @@ p {
     font-size: 16px;
     field-sizing: content;
     width: 100%;
+}
+
+.content-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 64px;
+    max-width: 100%;
+}
+
+.content-footer > a {
+    display: flex;
+    gap: 32px;
+    
+}
+
+.row-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 32px;
+    padding-bottom: 80px;
+    padding: 64px;
+}
+
+.links-footer {
+    display: flex;
+    align-items: center;
+    gap: 24px;
 }
 
